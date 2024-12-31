@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (hireMeButton) { // Check if the button exists
         hireMeButton.addEventListener('click', function () {
-            alert("Thank you for your interest! Let's work together to create amazing projects. Contact me at: ayuniiraniaa@gmail.com");
+            alert("Thanks for reaching out! Let’s create something amazing together. Contact me at: ayuniiraniaa@gmail.com");
         });
     } else {
         console.error('Hire Me button not found.');
